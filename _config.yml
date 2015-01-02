@@ -4,7 +4,7 @@ email: nsmith@holycross.edu
 description: > # this means to ignore newlines until "baseurl:"
   Course discussion blog for Introduction to Classical Archaeology,
   Classics 160, College of the Holy Cross, spring semester, 2014.
-baseurl: "/testprojpage2" # the subpath of your site, e.g. /blog/
+baseurl: "/ica-s14"
 url: "" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  
