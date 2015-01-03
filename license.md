@@ -1,5 +1,7 @@
-
 ---
+layout: page
+title: License for layout template
+permalink: /license/
 ---
 
 The MIT License
