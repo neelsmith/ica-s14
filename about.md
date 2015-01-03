@@ -4,7 +4,7 @@ title: About this blog
 permalink: /about/
 ---
 
-This blog is for discussion assignments for Classics 160, Introduction to Classical Archaeology, in the spring semester of 2015.    You can post comments using your Holy Cross Google email ID by choosing "Google" from the login menu, like this:
+This blog is for discussion assignments for Classics 160, "Introduction to Classical Archaeology," in the spring semester of 2015.    You can post comments using your Holy Cross Google email ID by choosing "Google" from the login menu, like this:
 
  ![Logging in to comment](../images/disqus_login.jpg)
 
