@@ -1,5 +1,5 @@
 ---
 layout: home
-title: "ICA discussion blog"
+title:  "Introduction to Classical Archaeology: discussion site"
 
 ---
