@@ -2,7 +2,7 @@ title:            ICA discussion blog
 description:      >
   Course discussion blog for Introduction to Classical Archaeology,
   Classics 160, College of the Holy Cross, spring semester, 2015.
-canonical: 
+baseurl: ica-s15
 
 # Owner/author information
 owner:
